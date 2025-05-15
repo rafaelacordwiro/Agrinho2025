@@ -10,11 +10,12 @@ body {
 }
 
 header {
-    background-color:red;
+    background-color:rgb(140, 24, 24);
     padding: 20px;
     text-align: center;
     position: relative;
     color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer{
