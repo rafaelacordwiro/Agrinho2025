@@ -11,10 +11,11 @@ body {
 
 header {
     background-color:rgb(140, 24, 24);
+    font-size: 20;
     padding: 20px;
     text-align: center;
     position: relative;
-    color: black;
+    color: rgb(255, 255, 255);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
