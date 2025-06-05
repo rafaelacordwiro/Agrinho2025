@@ -58,3 +58,11 @@ img {
     color: #b22222;
     text-decoration: underline;
 }
+
+.lista {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+    margin: 20px 0;
+}
