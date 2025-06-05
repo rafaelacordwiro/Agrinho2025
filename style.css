@@ -36,8 +36,9 @@ img {
     max-width: 90%;
 }
 
-.img/64ª_Festa_do_Peão_de_Barretos_(48636987962).jpg img{
+.rodeio {
     width: 60%;
     display: block;
-    margin: 0 auto;
+    margin: 20px auto;
+    border-radius: 10px;
 }
