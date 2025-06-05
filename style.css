@@ -63,7 +63,7 @@ img {
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 40px;
     padding: 0;
     margin: 20px 0;
 }
