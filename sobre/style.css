@@ -18,3 +18,14 @@ header {
     color: rgb(255, 255, 255);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+footer{
+    background-color: blanchedalmond;
+    text-align: center;
+    color: black;
+}
+
+cabecalho-subtitulo {
+    font-family: Arial, Helvetica, sans-serif;]
+    color: black;
+}
