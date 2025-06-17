@@ -8,3 +8,62 @@ body {
     background-color: rgb(255, 255, 255);
     color: red;
 }
+
+header {
+    background-color:rgb(162, 19, 19);
+    font-size: x-large;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+    background-color: blanchedalmond;
+    text-align: center;
+    color: black;
+}
+
+cabecalho-subtitulo {
+    font-family: Arial, Helvetica, sans-serif;]
+    color: black;
+    
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 90%;
+}
+
+.rodeio {
+    width: 45%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.lista a {
+    text-decoration: none;
+}
+
+.lista-item1, .lista-item2 {
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.lista-item1: :hover, .lista-item2: :hover {
+    color: #b22222;
+    text-decoration: underline;
+}
+
+.lista {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding: 0;
+    margin: 20px 0;
+}
